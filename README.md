@@ -25,4 +25,6 @@ Run the following command to run startup migrations.
 
 ```js
 adonis migration:run
-```
+/```
+adonis key:generate
+pra gerar a Key da API
